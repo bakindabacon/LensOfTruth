@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91375d86-2f72-4597-9f11-43fa24225a67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LensOfTruth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exchange/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exchange/backtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exchange/ccxt_phemex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exchange/ccxt_phemex_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exchange/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exchange/dontshare_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exchange/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exchange/indicators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exchange/websocket/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exchange/websocket/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exchange/websocket/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GraphicsItems/BulkDraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GraphicsItems/CandleStick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GraphicsItems/ViewPort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GraphicsItems/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GraphicsItems/out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/config/main_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/config/resource.qrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main_window.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main_window_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/table.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gWKfyEHHYWO6CoOlQhkAnfVBVo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.BulkDraw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CandleStick.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ViewPort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ccxt_phemex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ccxt_phemex_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.indicators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_window.executor&quot;: &quot;Run&quot;,
+    &quot;Python.server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tabs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testview.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maach/Downloads/MiniZelda.pyxapp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maach\PycharmProjects\AssetEye\main" />
+      <recent name="C:\Users\maach\PycharmProjects\AssetEye\GraphicsItems" />
+      <recent name="C:\Users\maach\PycharmProjects\AssetEye\Exchange" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maach\PycharmProjects\AssetEye\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="indicators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LensOfTruth" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exchange" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exchange/indicators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.indicators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91375d86-2f72-4597-9f11-43fa24225a67" name="Changes" comment="" />
+      <created>1715808000470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715808000470</updated>
+    </task>
+    <servers />
+  </component>
+</project>
